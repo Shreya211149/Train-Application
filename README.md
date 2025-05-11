@@ -20,7 +20,7 @@ Docker: Containerization of the application for simplified deployment
 
 ## 📦 Docker Hub
 You can find the Docker image for this project on Docker Hub:
-211001001149/train-app
+[Link Text](211001001149/train-app)
 
 🔗 Project Link
 Coming soon
